@@ -57,7 +57,7 @@ $$
 $$
 dv_t = \kappa (\theta - v_t) dt + \xi \sqrt{v_t} dW_t^v
 $$
-**
+
 where $dW_t^S dW_t^v = \rho dt$, $\kappa$ is the mean-reversion speed, $\theta$ is long-term variance, and $\xi$ is the volatility of volatility.**
 
 ---
