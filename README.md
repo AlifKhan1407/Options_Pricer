@@ -13,8 +13,8 @@ A modular, vectorized Python library designed for pricing European derivative co
 
 These are the key resources that I will be using to create this project and will be referred to while coding. 
 
-* **[Investopedia - Options Explained]((https://www.investopedia.com/terms/o/option.asp))**
-* **[Black-Scholes Option Pricing Model]((https://medium.com/@andrejin.nagano/black-scholes-option-pricing-model-assumptions-4bc60b5b78c7))**
+* **[Investopedia - Options Explained](https://www.investopedia.com/terms/o/option.asp)**
+* **[Black-Scholes Option Pricing Model](https://medium.com/@andrejin.nagano/black-scholes-option-pricing-model-assumptions-4bc60b5b78c7)**
 * 
 ## Key Features & Roadmap
 
