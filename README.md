@@ -11,7 +11,7 @@ A modular, vectorized Python library designed for pricing European derivative co
 
 ## Key Features & Roadmap
 
-- [x] **Phase 1: Closed-Form Analytical Engine**
+- [ ] **Phase 1: Closed-Form Analytical Engine**
   - Black-Scholes-Merton European call/put pricing.
   - Full vectorization using `numpy` across strike prices and maturities.
   - Analytical first- and second-order Greeks ($\Delta, \Gamma, \Theta, \nu, \rho$).
